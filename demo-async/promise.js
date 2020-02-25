@@ -38,3 +38,6 @@ let area = (a, b, h) => {
 area(1, 2, 3).then(res => {
     console.log("The area: " + res);
 })
+area(1, 2, 2).then(res => {
+    console.log("asfsd: " + res);
+});
